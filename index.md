@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## El rincón de Jose
 
-You can use the [editor on GitHub](https://github.com/joseluissaiz/ED_Practica1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Holayll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Este es mi rinconcito donde están los trabajos y apuntes del curso
 
 ### Markdown
 
